@@ -33,6 +33,8 @@ crearArchivo(argv.b, argv.l,argv.h)
 - al escribir en la consola node app --base=9, se esta creando un espacion en memoria
 donde se va tener "--base, ¿pero donde esta ese lugar?"
 
+-git checkout -- . // si borro algo con ese comando lo recupero
+
 */
 
 
